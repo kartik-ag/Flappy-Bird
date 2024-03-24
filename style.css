@@ -1,0 +1,27 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+#board{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+#score{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
